@@ -46,6 +46,29 @@ Github Link
 https://github.com/hklarner/NuSMV-a/tree/master/NuSMV-2.6.0/NuSMV
 
 
+6.FOREPOST:A Tool For Detecting Performance Problems with Feedback-Driven Learning Software Testing
+
+Link for source code:
+http://www.cs.wm.edu/semeru/data/ICSE16-FOREPOST/
+
+
+7.DroidBot: A Lightweight UI-Guided Test Input Generator for Android .
+2017 IEEE/ACM 39th IEEE International Conference on Software Engineering Companion
+
+Github link:
+https://github.com/honeynet/droidbot
+
+
+8.JetUML: Simple UML diagramming tool
+
+github link:
+https://github.com/prmr/JetUML
+
+9.DiffCat:A tool for detecting non-esential differences in the revision histories of software systems.
+
+link:http://cs.mcgill.ca/~swevo/diffcat/
+
+
 
 
 
