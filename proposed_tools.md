@@ -13,14 +13,17 @@ Gyori, Alex, et al. "NonDex: A tool for detecting and debugging wrong assumption
 
 Github Link
 https://github.com/TestingResearchIllinois/NonDex
+
 Demo
 https://www.youtube.com/watch?v=h3a9ONkC59c&feature=youtu.be
 
 3. MicroART (Architecture)
 Paper
 Granchelli, Giona, et al. "MicroART: A Software Architecture Recovery Tool for Maintaining Microservice-based Systems." IEEE International Conference on Software Architecture (ICSA). 2017.
+
 Github Link
 https://github.com/microart/microART-Tool
+
 Slides
 https://www.slideshare.net/paolodifrancesco/microart-a-software-architecture-recovery-tool-for-maintaining-microservicebased-systems
 
@@ -38,6 +41,7 @@ https://github.com/gems-uff/tipmerge
 
 Paper
 Cimatti, Alessandro, et al. "Nusmv 2: An opensource tool for symbolic model checking." International Conference on Computer Aided Verification. Springer, Berlin, Heidelberg, 2002.
+
 Github Link
 https://github.com/hklarner/NuSMV-a/tree/master/NuSMV-2.6.0/NuSMV
 
